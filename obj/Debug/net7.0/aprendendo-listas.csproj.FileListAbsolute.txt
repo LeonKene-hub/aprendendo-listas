@@ -1,0 +1,15 @@
+C:\Users\56026708820\Desktop\aprendendo-listas\bin\Debug\net7.0\aprendendo-listas.exe
+C:\Users\56026708820\Desktop\aprendendo-listas\bin\Debug\net7.0\aprendendo-listas.deps.json
+C:\Users\56026708820\Desktop\aprendendo-listas\bin\Debug\net7.0\aprendendo-listas.runtimeconfig.json
+C:\Users\56026708820\Desktop\aprendendo-listas\bin\Debug\net7.0\aprendendo-listas.dll
+C:\Users\56026708820\Desktop\aprendendo-listas\bin\Debug\net7.0\aprendendo-listas.pdb
+C:\Users\56026708820\Desktop\aprendendo-listas\obj\Debug\net7.0\aprendendo-listas.csproj.AssemblyReference.cache
+C:\Users\56026708820\Desktop\aprendendo-listas\obj\Debug\net7.0\aprendendo-listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56026708820\Desktop\aprendendo-listas\obj\Debug\net7.0\aprendendo-listas.AssemblyInfoInputs.cache
+C:\Users\56026708820\Desktop\aprendendo-listas\obj\Debug\net7.0\aprendendo-listas.AssemblyInfo.cs
+C:\Users\56026708820\Desktop\aprendendo-listas\obj\Debug\net7.0\aprendendo-listas.csproj.CoreCompileInputs.cache
+C:\Users\56026708820\Desktop\aprendendo-listas\obj\Debug\net7.0\aprendendo-listas.dll
+C:\Users\56026708820\Desktop\aprendendo-listas\obj\Debug\net7.0\refint\aprendendo-listas.dll
+C:\Users\56026708820\Desktop\aprendendo-listas\obj\Debug\net7.0\aprendendo-listas.pdb
+C:\Users\56026708820\Desktop\aprendendo-listas\obj\Debug\net7.0\aprendendo-listas.genruntimeconfig.cache
+C:\Users\56026708820\Desktop\aprendendo-listas\obj\Debug\net7.0\ref\aprendendo-listas.dll
